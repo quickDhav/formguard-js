@@ -1,0 +1,42 @@
+{
+  "name": "formguard-js",
+  "version": "1.0.0",
+  "description": "Simple, lightweight and reusable JavaScript form validation library.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "example": "node examples/example.js"
+  },
+  "keywords": [
+    "form",
+    "validation",
+    "validator",
+    "form-validation",
+    "javascript",
+    "email-validation",
+    "password-strength",
+    "formguard"
+  ],
+  "author": "Student Developer <student@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/formguard-js.git"
+  },
+  "homepage": "https://github.com/your-username/formguard-js#readme",
+  "bugs": {
+    "url": "https://github.com/your-username/formguard-js/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
