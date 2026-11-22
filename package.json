@@ -1,5 +1,5 @@
 {
-  "name": "formguard-js",
+  "name": "@dhavika/formguard-js",
   "version": "1.0.0",
   "description": "Simple, lightweight and reusable JavaScript form validation library.",
   "type": "module",
@@ -26,15 +26,15 @@
     "password-strength",
     "formguard"
   ],
-  "author": "Student Developer <student@example.com>",
+  "author": "quickDhav <mkd9c11@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/formguard-js.git"
+    "url": "git+https://github.com/quickDhav/formguard-js.git"
   },
-  "homepage": "https://github.com/your-username/formguard-js#readme",
+  "homepage": "https://github.com/quickDhav/formguard-js#readme",
   "bugs": {
-    "url": "https://github.com/your-username/formguard-js/issues"
+    "url": "https://github.com/quickDhav/formguard-js/issues"
   },
   "engines": {
     "node": ">=18.0.0"
